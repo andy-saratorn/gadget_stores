@@ -9,4 +9,4 @@ key skills included in this project are
 - Data analysis
 - Business analysis
 
-[See results](https://www.google.com](https://saratornsw.blogspot.com/)https://saratornsw.blogspot.com/)
+[See results](https://saratornsw.blogspot.com/)
